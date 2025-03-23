@@ -4,14 +4,13 @@
 
 # 📂 Repository Structure
 
-``
 📂 cmseek-results
  ├── 📂 Result/              # CMSeeK scan results (each target has its own folder)
  ├── 📜 merge_cmseek_results.py  # Script to merge JSON results
  ├── 📜 .gitignore           # Ignore unnecessary files
  ├── 📜 README.md            # Documentation
  ├── 📜 merged_results.json  # Final merged result (after running script)
-``
+
 # 🚀 How to Use
 
 ## Run the Python script to merge results:
