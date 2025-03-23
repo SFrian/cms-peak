@@ -1,0 +1,22 @@
+{
+    "last_updated": "2025-03-23 10:28:22.438532",
+    "results": [
+        {
+            "http://domain.1": {
+                "cms_id": "",
+                "date": "2025-03-23 10:28:22.015084",
+                "report": "/home/justamod/Desktop/cmseek (Copy)/Result/domain.1/cms.json"
+            },
+            "http://domain.2": {
+                "cms_id": "",
+                "date": "2025-03-23 10:28:22.152082",
+                "report": "/home/justamod/Desktop/cmseek (Copy)/Result/domain.2/cms.json"
+            },
+            "http://dst": {
+                "cms_id": "",
+                "date": "2025-03-23 10:28:22.315826",
+                "report": "/home/justamod/Desktop/cmseek (Copy)/Result/dst/cms.json"
+            }
+        }
+    ]
+}

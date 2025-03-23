@@ -1,0 +1,26 @@
+[
+    {
+        "cms_id": "",
+        "cms_name": "",
+        "cms_url": "",
+        "detection_param": "",
+        "last_scanned": "2025-03-23 10:28:22.015084",
+        "url": "http://domain.1"
+    },
+    {
+        "cms_id": "",
+        "cms_name": "",
+        "cms_url": "",
+        "detection_param": "",
+        "last_scanned": "2025-03-23 10:28:22.152082",
+        "url": "http://domain.2"
+    },
+    {
+        "cms_id": "",
+        "cms_name": "",
+        "cms_url": "",
+        "detection_param": "",
+        "last_scanned": "2025-03-23 10:28:22.315826",
+        "url": "http://dst"
+    }
+]
